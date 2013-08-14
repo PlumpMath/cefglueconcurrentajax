@@ -1,0 +1,17 @@
+C:\Users\Lev\Documents\Visual Studio 2013\Projects\xilium.cefglue\CefGlue\bin\Debug\Xilium.CefGlue.xml
+C:\Users\Lev\Documents\Visual Studio 2013\Projects\xilium.cefglue\CefGlue\bin\Debug\Xilium.CefGlue.dll
+C:\Users\Lev\Documents\Visual Studio 2013\Projects\xilium.cefglue\CefGlue\bin\Debug\Xilium.CefGlue.pdb
+C:\Users\Lev\Documents\Visual Studio 2013\Projects\xilium.cefglue\CefGlue\obj\Debug\CefGlue.csprojResolveAssemblyReference.cache
+C:\Users\Lev\Documents\Visual Studio 2013\Projects\xilium.cefglue\CefGlue\obj\Debug\Xilium.CefGlue.dll
+C:\Users\Lev\Documents\Visual Studio 2013\Projects\xilium.cefglue\CefGlue\obj\Debug\Xilium.CefGlue.pdb
+C:\Users\Lev\Documents\Visual Studio 2013\Projects\simpleWebPage\CefGlue\bin\Debug\Xilium.CefGlue.xml
+C:\Users\Lev\Documents\Visual Studio 2013\Projects\simpleWebPage\CefGlue\bin\Debug\Xilium.CefGlue.dll
+C:\Users\Lev\Documents\Visual Studio 2013\Projects\simpleWebPage\CefGlue\bin\Debug\Xilium.CefGlue.pdb
+C:\Users\Lev\Documents\Visual Studio 2013\Projects\simpleWebPage\CefGlue\obj\Debug\CefGlue.csprojResolveAssemblyReference.cache
+C:\Users\Lev\Documents\Visual Studio 2013\Projects\simpleWebPage\CefGlue\obj\Debug\Xilium.CefGlue.dll
+C:\Users\Lev\Documents\Visual Studio 2013\Projects\simpleWebPage\CefGlue\obj\Debug\Xilium.CefGlue.pdb
+C:\Users\Lev\Documents\Visual Studio 2013\Projects\cefgluesimpleajax\CefGlue\bin\Debug\Xilium.CefGlue.xml
+C:\Users\Lev\Documents\Visual Studio 2013\Projects\cefgluesimpleajax\CefGlue\obj\Debug\Xilium.CefGlue.dll
+C:\Users\Lev\Documents\Visual Studio 2013\Projects\cefgluesimpleajax\CefGlue\obj\Debug\Xilium.CefGlue.pdb
+C:\Users\Lev\Documents\Visual Studio 2013\Projects\cefgluesimpleajax\CefGlue\bin\Debug\Xilium.CefGlue.dll
+C:\Users\Lev\Documents\Visual Studio 2013\Projects\cefgluesimpleajax\CefGlue\bin\Debug\Xilium.CefGlue.pdb

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <script src="jquery.js"></script>
+    <script src="lowlevelconnect.js"></script>
+    <script>
+        var startScan = function(oArgs) {
+            serverReq({
+                command: "/connection/scan/start",
+                data:    {
+                    duration:  5000,
+                    scancount: 3,
+                },
+                success: oArgs.success,
+                error:   oArgs.error,
+            });
+        };
+        
+        var getScannedConnections = function(oArgs) {
+            serverReq({
+                command: "/connection/scan/get",
+                data:    "",
+                success: oArgs.success,
+            });
+        };
+        
+        $(document).ready(function(){
+            $("button#scanconnections").click(function(){
+                startScan({});
+            });
+            $("button#getconnections").click(function(){
+                getScannedConnections({});      
+            });
+        });
+    </script>
+    </head>
+    <body>
+    
+        <b>Connect to the CEF DevTools in your browser via http://localhost:7777/</b><br />
+        <code>Watch for console output in devtools and click buttons below.<br />This example demonstrates behaviour of two concurrent requests. Every button sends AJAX request to the C# code. Scan buttons executes in C# with the delay of 2 seconds, while Get button executes in C# immediately. Click Scan and then Get button and look to the console output. Get button must return result faster than Get button.</code>
+        <hr />
+        <p>Connection</p>
+        <button id="scanconnections">Scan</button>
+        <button id="getconnections">Get</button>
+    
+    </body>
+</html>
